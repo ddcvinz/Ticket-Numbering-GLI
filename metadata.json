@@ -1,0 +1,6 @@
+{
+  "name": "IT Officer Ticket & Queue Manager",
+  "description": "Smart, zero-registration ticketing queue system for multi-branch office IT repairs, equipment servicing, and field visits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
